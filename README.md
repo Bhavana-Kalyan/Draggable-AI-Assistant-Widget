@@ -4,7 +4,7 @@
 ### 1. Executive Summary and Market Gap
 In the consumer internet ecosystem, a major volume of transactional revenue is lost at the final checkout gate due to user anxiety. First-time shoppers and users unfamiliar with basic mobile technology frequently experience cognitive friction regarding payment safety, fear of bank server failures, and unclear transactional navigation steps. This hesitation directly causes cart abandonment, lowering the platform's active session time and leaking revenue.
 
-The Solution: "Mini Chatty"—a cross-platform, draggable B2B SaaS AI Assistant Widget that software platforms and e-commerce websites integrate via a monthly subscription model. The widget operates as a persistent guide to eliminate user friction, enhance onboarding velocity, and protect transaction funnels.
+The Solution: "Mini Chatty"- a cross-platform, draggable B2B SaaS AI Assistant Widget that software platforms and e-commerce websites integrate via a monthly subscription model. The widget operates as a persistent guide to eliminate user friction, enhance onboarding velocity, and protect transaction funnels.
 
 ---
 
